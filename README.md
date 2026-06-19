@@ -57,7 +57,7 @@ The password is built in 3 steps:
 Run the script:
 
 ```bash
-python password_generator.py
+python password.py
 ```
 
 Example:
@@ -80,9 +80,9 @@ It is copied to clipboard and ready to paste.
 ## Project Structure
 
 ```text
-password-generator/
+
 │
-├── password_generator.py
+├── password.py
 └── README.md
 ```
 

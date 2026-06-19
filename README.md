@@ -118,20 +118,6 @@ Generated password string.
 * Uses `SystemRandom.shuffle()` for secure shuffling
 * Safer than using Python's `random` module for password generation
 
----
-
-## Possible Improvements
-
-Future enhancements:
-
-* Add option to exclude ambiguous characters (`0`, `O`, `l`, `1`)
-* Add GUI version
-* Add password strength meter
-* Add bulk password generation
-* Save password history securely
-* Export passwords to encrypted storage
-
----
 
 ## License
 
